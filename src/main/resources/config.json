@@ -1,0 +1,9 @@
+{
+  "http.address": "0.0.0.0",
+  "http.caching.enabled": true,
+  "http.compression.level": 9,
+  "http.compression.supported": true,
+  "http.decompression.supported": true,
+  "http.port": 8080,
+  "http.webroot.directory": "webroot"
+}
